@@ -15,8 +15,4 @@
 学习无止境，从小学到大学，再到社会亦是如此。
 > ## 后言
 既然已经开始了，那就不要停下，一直往前冲。
-<div>
-<cenetr>
-<img src='https://github.com/DongDong1997/Note/blob/main/%E5%9B%BE%E5%BA%93/%E7%89%B9%E6%AE%8A%E7%85%A7%E7%89%87/%E5%93%88%E5%93%88.jpg' />
-</cenetr>
-</div>
+
